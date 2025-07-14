@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-docx
+PyMuPDF
+openai
+deepgram-sdk
+aiofiles
+requests
+python-multipart
